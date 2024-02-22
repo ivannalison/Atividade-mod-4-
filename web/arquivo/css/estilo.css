@@ -1,0 +1,144 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 16 de fev. de 2024, 18:22:58
+    Author     : nalis
+*/
+
+ body{
+    background-image:
+    url("R.jpg");
+background-size: cover;
+background-repeat: no-repeat ; 
+} 
+p{
+    color:white ;
+}
+h4{
+    color: white;
+}
+body{
+    margin-left: 40px; margin-right: 40px;
+}
+#menu{
+    background-color: rgb(80, 82, 219);padding: 19px;
+}
+.nat{
+    color: rgb(255, 153, 0);font-size: 400% ;text-align: justify;
+}
+.um{
+  color: White
+}
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: rgba(47, 34, 104, 0);
+}
+
+.text-primeiro{
+    color:white ;
+}
+.text-segundo{
+    color: dimgray;
+}
+
+
+.imagem-container img {
+    width: 100%; 
+
+}
+
+
+.nav-item {
+
+}
+
+.text-white {
+
+}
+
+.bg-dark {
+
+}
+
+.text-light {
+
+}
+.text-white{}
+
+.py-3 {
+
+}
+
+.text-center {
+
+}
+
+.container {
+
+}
+
+.mt-4 {
+
+}
+
+.navbar {
+
+}
+
+.bg-primary {
+
+}
+
+.navbar-expand-lg {
+
+}
+
+.navbar-light {
+
+}
+
+.navbar-toggler {
+
+}
+
+.navbar-toggler-icon {
+
+}
+
+.justify-content-end {
+
+}
+
+#navbarNav {
+
+}
+
+.navbar-collapse {
+
+}
+
+.collapse {
+
+}
+
+.me-auto {
+
+}
+
+.btn {
+
+}
+/* styles.css */
+
+
+

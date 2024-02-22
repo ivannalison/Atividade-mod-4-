@@ -1,0 +1,54 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22 de fev. de 2024, 06:03:21
+    Author     : nalis
+*/
+
+#formularioCompra {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.9); /* Transparente branco */
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    width: 300px;
+    text-align: center;
+}
+
+#formularioCompra h2 {
+    color: blue;
+}
+
+#formularioCompra label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#formularioCompra select,
+#formularioCompra input[type="text"],
+#formularioCompra input[type="number"],
+#formularioCompra input[type="date"],
+#formularioCompra button {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+#formularioCompra button {
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+#mensagemCompra {
+    display: none;
+    color: blue;
+    margin-top: 5px;
+}
